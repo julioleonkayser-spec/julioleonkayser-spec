@@ -15,6 +15,7 @@ Currently a Backend AI Engineer Intern at **FlyRank AI**, and founder of **ReWar
 ## About Me
 
 - **Backend AI Engineer Intern** at FlyRank AI, building agentic pipelines and API integration flows for production-grade AI systems
+- **Founder of [Auditix](#)** — case/document management for accounting & audit firms in LatAm. Mobile client uploads, an engine that auto-escalates stalled engagements and tracks task ownership, and an append-only audit log with per-tenant row-level isolation. · 3 firms in production · $150/mo target
 - **Founder of [ReWarm](#)** — an AI voice agent reactivating dormant real estate leads for brokerages, with active paying clients
 - **Co-creator of DealScreen AI**, a 6-step commercial real estate screening pipeline that placed **Top 10** in the Project Destined AI x CRE Hackathon
 - **Commercial Real Estate Analyst Fellow** at Project Destined, applying cap rate, NOI, and risk frameworks to office, retail, and multifamily assets
@@ -27,4 +28,4 @@ Currently a Backend AI Engineer Intern at **FlyRank AI**, and founder of **ReWar
 
 ## Tech Stack
 
-`Python` `Node.js` `SQL` `REST APIs` `RAG` `Supabase / PostgreSQL` `Next.js` `CI/CD (GitHub Actions)`
+`Python` `Node.js` `SQL` `REST APIs` `RAG` `Supabase / PostgreSQL` `Next.js` `Vercel` `CI/CD (GitHub Actions)`
